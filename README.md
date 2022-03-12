@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaibabbar08
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning backend develoment.
+- 🌱 I’m currently learning frontend develoment.
 - 💞️ I’m looking to collaborate on open source projects based on web development.
 - 📫 jaibabbar08@gmail.com
 
